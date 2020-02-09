@@ -1,0 +1,34 @@
+{
+  "name": "hebden-places",
+  "version": "1.0.0",
+  "description": "Hebden Bridge Places",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "csv": "^5.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "process": "node src/process.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dringtech/hebden-places.git"
+  },
+  "keywords": [
+    "open",
+    "data",
+    "hebden",
+    "bridge",
+    "place"
+  ],
+  "author": "Giles Dring <giles@dringtech.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dringtech/hebden-places/issues"
+  },
+  "homepage": "https://github.com/dringtech/hebden-places#readme"
+}
