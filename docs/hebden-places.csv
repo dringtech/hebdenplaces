@@ -43,7 +43,7 @@ urn:uuid:3354e12b-8363-4c2e-ba6d-94be11ef6761,1-5 Market Street,The Old Treehous
 urn:uuid:89f68f36-1d8b-490f-bb32-6fe358f6e9e3,36 Market Street,Monster Computers,-2.0167511,53.7413521
 urn:uuid:b678e63f-dbdd-4e3d-9370-c25be11ea60d,4 Hilton Street,Hotcakes,-2.0159142,53.7411983
 urn:uuid:ef41018d-b69b-4554-820a-0c6fe8fd6b1f,Market Place,Hebden Bridge Market,-2.0128493,53.7427964
-urn:uuid:79caf13f-dfe5-4f48-9104-39ca84f0cf21,46 Market Street,Empty shop unit,NaN,NaN
+urn:uuid:79caf13f-dfe5-4f48-9104-39ca84f0cf21,46 Market Street,Empty shop unit,0,0
 urn:uuid:5e4ee95e-c99f-499a-a2f8-b7d8164bc272,The Old Loading Bay Hebden Bridge Railway Station,Coffee Station / Parcel Bar,-2.0088153,53.7377802
 urn:uuid:e9df781d-2a95-424a-b4e0-99d80ddd1914,3 Bridge Gate,Ladbrokes,-2.0139345,53.7412465
 urn:uuid:f01dfc72-b449-4c93-90ae-e5c23f87cee9,Central Street,Central Street Infant and Nursery School ,-2.0158073,53.7410113
@@ -52,7 +52,7 @@ urn:uuid:2c588b87-1e0c-4dd4-9e5f-a1e847f0f5d5,St. George's Square,Feathergill's 
 urn:uuid:cc278344-8211-4f7c-884c-d46c53a55109,Cheetham Street,Empty shop unit,-2.0118935,53.7414285
 urn:uuid:cfe36ecd-6a1c-4a87-8af7-dfa4677dce4b,Albert Street,Welcome Independent Living,-2.011052,53.7405667
 urn:uuid:22e763c3-6533-45b7-9b9f-fa5b0966091c,9 Old Gate,Cornucopia,-2.0146634,53.7415602
-urn:uuid:d77c984e-f4ac-4f2c-9b66-6fbd27b67042,32 Market Street,Empty shop unit,NaN,NaN
+urn:uuid:d77c984e-f4ac-4f2c-9b66-6fbd27b67042,32 Market Street,Empty shop unit,0,0
 urn:uuid:7df426e5-dc26-4e31-bb5e-7f68be592559,Station House Station Road,Hebden Bridge Railway Station,-2.0086486,53.7377124
 urn:uuid:f8091f9e-21f6-4ee9-a9bb-bf9f1052ea9c,Calder Homles Park,Park Life Cafe,-2.0124041,53.739519
 urn:uuid:6da84d28-2547-4000-a4f1-64a5592a5686,1 Bridge Gate,Valli Opticians,-2.0140939,53.7412291
@@ -67,7 +67,7 @@ urn:uuid:e7172271-038c-49b7-9f23-ba386024f12f,St. George's Square,David Woodhead
 urn:uuid:3025d2c8-ef40-4231-8e84-0530118d8c78,9 Albert Street,Vintage shop,-2.0116099,53.7413123
 urn:uuid:d024aff6-5277-4dfa-a773-d6e7a9e66b36,Bridge Gate,The Workshop,-2.0120283,53.7422598
 urn:uuid:d5f9973f-5951-4e40-9583-d305cb90d2da,17 Market Street,Copa House,-2.0153939,53.7413315
-urn:uuid:8b9fbded-768b-4be7-8c72-71270df033f1,30 Market Street,Empty shop unit,NaN,NaN
+urn:uuid:8b9fbded-768b-4be7-8c72-71270df033f1,30 Market Street,Empty shop unit,0,0
 urn:uuid:cbeec4c8-f345-4192-9aca-2acb33aa43cb,Hebble End,Bicycle Den,-2.0168834,53.7403725
 urn:uuid:a7dab670-6ad9-4be3-9882-974ee9b40036,St. George's Square,S K News,-2.0123096,53.7421185
 urn:uuid:36dbdb1b-e067-407a-bc6a-14964b1f1c84,St. George's Square,Valentine's,-2.0122821,53.7420772
@@ -155,23 +155,23 @@ urn:uuid:15bacb78-8b43-40aa-8c2e-ff829f468f7f,Crown Street,One Stop Shop,-2.0126
 urn:uuid:bd94c2f3-b693-4ff6-80b5-aa0910e04dc7,Crown Street,Crown Inn,-2.0127454,53.7413947
 urn:uuid:f4136838-0665-4a6e-8831-cef63299b8af,Crown Street,The Crown Fish and Chips,-2.012909,53.7412472
 urn:uuid:96455b22-01ef-4c60-9463-0e9c015e7be3,Crown Street,Claire Sheehan,-2.0129788,53.7411544
-urn:uuid:080d18f9-7e67-4967-bec6-a9a6d45dacc6,Crown Street,Hospice Shop,NaN,NaN
+urn:uuid:080d18f9-7e67-4967-bec6-a9a6d45dacc6,Crown Street,Hospice Shop,0,0
 urn:uuid:56960f26-b3aa-47e1-9ecc-098b2062c05a,Crown Street,Hiu Man,-2.0130793,53.7412881
 urn:uuid:35912452-e070-46f5-a9c3-e4e2dcdb84f2,Crown Street,Daisy and Sam,-2.0130297,53.7413313
 urn:uuid:49664f74-6dda-4ee0-a8c8-21e5ef53d1fb,Crown Street,Boots,-2.0128598,53.7414615
 urn:uuid:32c9549d-2285-444b-8c3b-5aaf25cd5cd9,Crown Street,Christine Edwards,-2.0129566,53.74139
 urn:uuid:f40ad140-e4e2-42d9-901c-7f0a3b47c8cc,Crown Street,Amelia,-2.0125925,53.7416569
 urn:uuid:6fbb9bff-399e-4fcf-a17e-522a28dcf3f9,Crown Street,Mountain Wild,-2.0126428,53.7415982
-urn:uuid:5eaf0c1a-87a3-4373-a617-f97abb3f8d93,Albert Street,Independent Living,NaN,NaN
+urn:uuid:5eaf0c1a-87a3-4373-a617-f97abb3f8d93,Albert Street,Independent Living,0,0
 urn:uuid:46f0965d-3c6e-4f70-931a-8697fcb11e6f,Albert Street,Print Bureau,-2.0111137,53.7407079
-urn:uuid:a40108d9-50a8-4c61-b7cc-9d33174f51fa,Albert Street,Greenwood Funerals,NaN,NaN
-urn:uuid:7f55ff32-70a6-49cd-aa24-59832ecad1bf,Albert Street,Citizen's Advice Bureau,NaN,NaN
-urn:uuid:626384fb-aaa8-4ad7-b8b5-1b87c635790b,Albert Street,Quilt Cabin,NaN,NaN
+urn:uuid:a40108d9-50a8-4c61-b7cc-9d33174f51fa,Albert Street,Greenwood Funerals,0,0
+urn:uuid:7f55ff32-70a6-49cd-aa24-59832ecad1bf,Albert Street,Citizen's Advice Bureau,0,0
+urn:uuid:626384fb-aaa8-4ad7-b8b5-1b87c635790b,Albert Street,Quilt Cabin,0,0
 urn:uuid:bc20bad3-6ab5-42f2-8ef4-231dd5a2287e,Albert Street,Greens Vegetarian Cafe,-2.0113497,53.7410038
-urn:uuid:7369c85a-7ef2-4774-83f4-d7d5753a1205,Albert Street,Gibsons,NaN,NaN
+urn:uuid:7369c85a-7ef2-4774-83f4-d7d5753a1205,Albert Street,Gibsons,0,0
 urn:uuid:02019ec1-fb50-4608-9e60-46b2e8b46a1d,Albert Street,Pennine Club,-2.0114945,53.7411715
 urn:uuid:1cd95f9f-9b72-4210-bc13-46a1fea23d00,Albert Street,Hebden Bridge Sports and Social Club,-2.0115509,53.7412366
-urn:uuid:7b680f49-f922-40a8-8baf-6e4104234e2e,Albert Street,Edwards,NaN,NaN
+urn:uuid:7b680f49-f922-40a8-8baf-6e4104234e2e,Albert Street,Edwards,0,0
 urn:uuid:50ca7a69-d78c-4e03-9125-10574576d93c,Albert Street,Squeeze,-2.0116246,53.741331
 urn:uuid:6f80d09b-511c-4553-8019-078c63358df2,Albert Street,Polkadot Lane,-2.0116427,53.7413568
 urn:uuid:7c4ea3fc-5e10-41cd-b5fc-72ed8422f374,Albert Street,Colour Yorkshire,-2.0116883,53.7414821
@@ -182,9 +182,9 @@ urn:uuid:19278e1c-a67a-47b5-a479-fa6ab97d0ab6,Hope Street,Circle of Friends,-2.0
 urn:uuid:4f4b2084-9be8-4584-905b-913e2953b6b6,Hope Street,Library,-2.0119642,53.7412817
 urn:uuid:5b55f24b-d170-4e59-b0e4-4a6766b3958f,Carlton Street,Marshalls Bar,-2.0123183,53.7415546
 urn:uuid:a0c2d456-390e-4935-a388-9411015b5316,Carlton Street,Zeitgeist,-2.011984,53.7414591
-urn:uuid:bdd3ef4d-d49c-4ebf-a2b2-3c6d36eca1b8,Hebble End,Hebble End studios,NaN,NaN
+urn:uuid:bdd3ef4d-d49c-4ebf-a2b2-3c6d36eca1b8,Hebble End,Hebble End studios,0,0
 urn:uuid:c5c76efe-75ab-4b68-aac1-4a67de3a7c05,Albert Street,Cook & Coffee,-2.0119384,53.7415455
-urn:uuid:698d554a-972f-46fb-87c5-07d3eab4c091,St. Georges Square,The Country Stores,NaN,NaN
+urn:uuid:698d554a-972f-46fb-87c5-07d3eab4c091,St. Georges Square,The Country Stores,0,0
 urn:uuid:92fad9d5-ff26-417c-b660-75cb4745b314,King Street,The Stubbing Wharf,-2.0276305,53.7408868
 urn:uuid:dab27681-a29b-4f5d-98bb-12e7760464c0,24 (upstairs) New Road,Eden Beauty Room,-2.0135221,53.7411108
 urn:uuid:c43c2c83-00fb-4062-9e64-a45c6b8fef22,2 Crown Street,Former bank,-2.0132264,53.7409887

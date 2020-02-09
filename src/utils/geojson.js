@@ -1,7 +1,7 @@
 const { writeFile } = require('./file');
 
 function filterInvalid(data) {
-    return data.lat && data.lon;
+    return data.lat && data.lon && data.lat !== 0 && data.lon !== 0;
 }
 
 function makeFeature({ urn, name, comments, lat, lon }) {
