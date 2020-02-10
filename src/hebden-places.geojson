@@ -776,9 +776,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:cfe36ecd-6a1c-4a87-8af7-dfa4677dce4b",
         "name": "Unit 3 Croft Mill",
         "comments": "Classic Carpet Company"
@@ -929,9 +926,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:ef01cffc-a16b-423e-afa6-e4f5f337ef56",
         "name": "4 Carlton Street",
         "comments": "Oasis Wine & Specialist Food Merchant"
@@ -1592,9 +1586,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:dcb2a0d1-d201-40d8-b660-fd66f650fd25",
         "name": "Unit 3, The Picture House Cinema New Road",
         "comments": "The Nightjar"
@@ -1685,9 +1676,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:e0cfc850-761d-4e70-9376-38fcfbfc9a79",
         "name": "1-3 Crown Street",
         "comments": "Overgate Hospice shop"
@@ -1703,9 +1691,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:64709de0-70bd-42e6-a12b-02d440a88fb5",
         "name": "Albert Street",
         "comments": "Jack's Barbers"
@@ -1796,9 +1781,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:479d65fe-2258-475d-b69d-a06255fba929",
         "name": "Crown Street",
         "comments": "The Remedy"
@@ -1919,9 +1901,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:6be90871-a0f1-4295-9ba1-1b725158866d",
         "name": "6 New Road",
         "comments": "Vocation and Co"
@@ -2297,9 +2276,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:23d92330-a475-40e2-b263-96b8c6a1e9de",
         "name": "14 Crown Street",
         "comments": "Stephen Maskill butcher"
@@ -2315,9 +2291,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:15bacb78-8b43-40aa-8c2e-ff829f468f7f",
         "name": "12 Crown Street",
         "comments": "One Stop Shop"
@@ -2333,9 +2306,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:bd94c2f3-b693-4ff6-80b5-aa0910e04dc7",
         "name": "10 Crown Street",
         "comments": "Crown Inn"
@@ -2351,9 +2321,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:f4136838-0665-4a6e-8831-cef63299b8af",
         "name": "8 Crown Street",
         "comments": "Crown Fisheries"
@@ -2369,9 +2336,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:96455b22-01ef-4c60-9463-0e9c015e7be3",
         "name": "6 Crown Street",
         "comments": "Rick's Mexican"
@@ -2387,9 +2351,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:56960f26-b3aa-47e1-9ecc-098b2062c05a",
         "name": "5 Crown Street",
         "comments": "Hiu Man"
@@ -2405,9 +2366,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:35912452-e070-46f5-a9c3-e4e2dcdb84f2",
         "name": "Crown Street",
         "comments": "Closed for refurb (was Daisy and Sam)"
@@ -2618,9 +2576,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:6f80d09b-511c-4553-8019-078c63358df2",
         "name": "Albert Street",
         "comments": "??? (was Polkadot Lane)"
@@ -2816,9 +2771,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:c43c2c83-00fb-4062-9e64-a45c6b8fef22",
         "name": "2 Crown Street",
         "comments": "Empty (was Nat West Bank)"
@@ -2924,9 +2876,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:eac399aa-9656-4234-bf8b-763daddb3eb1",
         "name": "14 Albert Street",
         "comments": "Jack's Barbers"
@@ -2972,9 +2921,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:957534fd-51f9-4ec9-b6fc-b7090d62a30c",
         "name": "Albert Street",
         "comments": "Bradbury Bathrooms"
@@ -3252,38 +3198,32 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "8 New Road",
-        "comments": "Nathan's",
-        "urn": "urn:uuid:1df23860-68d3-4a53-8f10-a9d1db632a9b"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -2.0115843415260315,
           53.74062426074713
         ]
+      },
+      "properties": {
+        "urn": "urn:uuid:1df23860-68d3-4a53-8f10-a9d1db632a9b",
+        "name": "8 New Road",
+        "comments": "Nathan's"
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "urn": "urn:uuid:5994845e-690e-4648-b4cd-e1678263863e",
-        "name": "6 Cheetham Street",
-        "comments": "Blue Sky Baker"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -2.0127645134925842,
           53.741271494725005
         ]
+      },
+      "properties": {
+        "urn": "urn:uuid:5994845e-690e-4648-b4cd-e1678263863e",
+        "name": "6 Cheetham Street",
+        "comments": "Blue Sky Baker"
       }
     }
   ]
