@@ -3,6 +3,16 @@
   <head>
     <meta charset="utf-8">
     <title>Hebden Places</title>
+    <link rel="stylesheet" href="//unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+      integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+      crossorigin=""/>
+    <script src="//unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+      integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+      crossorigin=""></script>
+    <script type="text/javascript" src="//maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
+    <style>
+      #map { height: 30em; }
+    </style>
   </head>
   <body>
     <h1>Hebden Places</h1>
@@ -11,5 +21,27 @@
       <a href='hebden-places.csv'>CSV</a>
       <a href='hebden-places.geojson'>GeoJSON</a>
     </p>
+    <article id="map"></article>
+    <script>
+      var hebden = [ 53.7414608, -2.0149822 ];
+      var map = L.map('map').setView(hebden, 16);
+      var toner = new L.StamenTileLayer('watercolor');
+
+      map.addLayer(toner);
+
+      fetch('./hebden-places.geojson')
+        .then(r => r.json())
+        .then(d => {
+          L.geoJSON(d, {
+            pointToLayer: (p, l) => L.circle(l, 3, {
+              color: '#2aa',
+              radius: 8,
+              weight: 1,
+              fillOpacity: 0.8,
+              riseOnHover: true,
+            }),
+          }).addTo(map);
+        })
+    </script>
   </body>
 </html>
