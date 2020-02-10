@@ -9,7 +9,6 @@
     <script src="//unpkg.com/leaflet@1.6.0/dist/leaflet.js"
       integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
       crossorigin=""></script>
-    <script type="text/javascript" src="//maps.stamen.com/js/tile.stamen.js?v1.3.0"></script>
     <style>
       #map { height: 30em; }
     </style>
@@ -25,9 +24,15 @@
     <script>
       var hebden = [ 53.7414608, -2.0149822 ];
       var map = L.map('map').setView(hebden, 16);
-      var toner = new L.StamenTileLayer('watercolor');
+      var base = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
+        attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        subdomains: 'abcd',
+        minZoom: 1,
+        maxZoom: 16,
+        ext: 'jpg'
+      });
 
-      map.addLayer(toner);
+      map.addLayer(base);
 
       fetch('./hebden-places.geojson')
         .then(r => r.json())
