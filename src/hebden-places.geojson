@@ -26,9 +26,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:b7cf19c9-106b-403d-bb42-a76f524bd448",
         "name": "2 Market Street",
         "comments": "Origano"
@@ -74,9 +71,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:d72d3fdf-33cd-4faf-84f1-0e4a9c1a961a",
         "name": "10 Market Street",
         "comments": "Empty"
@@ -107,9 +101,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:d22bc577-5359-492a-9c4f-6ec27da045bc",
         "name": "14 Market Street",
         "comments": "Totally Awesome"
@@ -125,9 +116,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:64f62f49-075d-4c42-922c-4b9d8ab886ac",
         "name": "16 Market Street",
         "comments": "Valley Organics"
@@ -143,9 +131,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:2d3a6548-d3f6-49c4-b3ea-d1b58eb0fa60",
         "name": "18 Market Street",
         "comments": "Empty (was Ribbon Circus)"
@@ -161,9 +146,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:4d65614c-5736-4f3c-8573-7fc67596d89e",
         "name": "20 Market Street",
         "comments": "??? (was Calder Gallery)"
@@ -239,9 +221,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:7060b082-8275-4247-8542-8cb2ba617231",
         "name": "26 Market Street",
         "comments": "??? (was Radiance)"
@@ -347,9 +326,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:100e96da-dfe4-42f5-8b3d-422cb9abe698",
         "name": "58 Market Street",
         "comments": "Empty shop unit"
@@ -395,9 +371,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:46336acc-df34-4301-84e2-7e180aeae1ca",
         "name": "39A Market Street",
         "comments": "??? (was Not a Full Shilling)"
@@ -428,9 +401,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:eb7fe90e-0368-4fbb-ac10-48ca28c13461",
         "name": "35 Market Street",
         "comments": "Humblest of Pleasures"
@@ -461,9 +431,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:8e496f4a-ee02-4aee-ab2c-7c14131e66d2",
         "name": "31 Market Street",
         "comments": "Valley Organics Unwrapped"
@@ -599,9 +566,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:6919d166-dc82-4e9b-b392-ca6d92fb67e8",
         "name": "9 Market Street",
         "comments": "Wood & Wire"
@@ -647,9 +611,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:3354e12b-8363-4c2e-ba6d-94be11ef6761",
         "name": "1-3 Market Street",
         "comments": "Tibetan Kitchen"
@@ -710,9 +671,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:79caf13f-dfe5-4f48-9104-39ca84f0cf21",
         "name": "46 Market Street",
         "comments": "Welcome Independent Living Upper Valley Community Hub"
@@ -760,7 +718,7 @@
       "properties": {
         "urn": "urn:uuid:f01dfc72-b449-4c93-90ae-e5c23f87cee9",
         "name": "Central Street",
-        "comments": "Central Street Infant and Nursery School "
+        "comments": "Central Street Infant and Nursery School"
       }
     },
     {
@@ -790,7 +748,7 @@
       "properties": {
         "urn": "urn:uuid:2c588b87-1e0c-4dd4-9e5f-a1e847f0f5d5",
         "name": "St. George's Square",
-        "comments": "Feathergill's Emporium"
+        "comments": "Square One Coffee Co"
       }
     },
     {
@@ -833,9 +791,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:22e763c3-6533-45b7-9b9f-fa5b0966091c",
         "name": "9 Old Gate",
         "comments": "Empty"
@@ -882,7 +837,7 @@
       },
       "properties": {
         "urn": "urn:uuid:f8091f9e-21f6-4ee9-a9bb-bf9f1052ea9c",
-        "name": "Calder Homles Park",
+        "name": "Calder Holmes Park",
         "comments": "Park Life Cafe"
       }
     },
@@ -987,7 +942,7 @@
       },
       "properties": {
         "urn": "urn:uuid:ad8a9ec4-2b5c-4fd9-8fc7-c99c426f9e2e",
-        "name": "St George's Square",
+        "name": "8-10 St George's Square",
         "comments": "Rohan"
       }
     },
@@ -1017,7 +972,7 @@
       },
       "properties": {
         "urn": "urn:uuid:e7172271-038c-49b7-9f23-ba386024f12f",
-        "name": "St. George's Square",
+        "name": "12 St. George's Square",
         "comments": "David Woodhead Family Butchers"
       }
     },
@@ -1061,9 +1016,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:d5f9973f-5951-4e40-9583-d305cb90d2da",
         "name": "17 Market Street",
         "comments": "Chapter 17"
@@ -1079,9 +1031,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:8b9fbded-768b-4be7-8c72-71270df033f1",
         "name": "34 Market Street",
         "comments": "Empty shop unit"
@@ -1114,7 +1063,7 @@
       "properties": {
         "urn": "urn:uuid:a7dab670-6ad9-4be3-9882-974ee9b40036",
         "name": "St. George's Square",
-        "comments": "S K News"
+        "comments": "Dragonfly Boutique"
       }
     },
     {
@@ -1129,7 +1078,7 @@
       "properties": {
         "urn": "urn:uuid:36dbdb1b-e067-407a-bc6a-14964b1f1c84",
         "name": "St. George's Square",
-        "comments": "Valentine's"
+        "comments": "Little H Cafe and Bar"
       }
     },
     {
@@ -1369,7 +1318,7 @@
       "properties": {
         "urn": "urn:uuid:6273d72d-b7ed-42d0-9734-1955980a15b0",
         "name": "6 Bridge Gate",
-        "comments": "William Holt"
+        "comments": "Empty (was Holt)"
       }
     },
     {
@@ -1593,7 +1542,7 @@
       },
       "properties": {
         "urn": "urn:uuid:9c8fd765-a498-41fc-aab5-ab9a9074b6f2",
-        "name": "New Road New Road",
+        "name": "New Road",
         "comments": "Hebden Bridge Visitor Centre"
       }
     },
@@ -1743,7 +1692,7 @@
       },
       "properties": {
         "urn": "urn:uuid:64709de0-70bd-42e6-a12b-02d440a88fb5",
-        "name": "Albert Street",
+        "name": "14 Albert Street",
         "comments": "Jack's Barbers"
       }
     },
@@ -1863,7 +1812,7 @@
       },
       "properties": {
         "urn": "urn:uuid:fcbbe460-f731-48fa-9e7a-715874f7642c",
-        "name": "",
+        "name": "Bridge Gate",
         "comments": "Love Grows"
       }
     },
@@ -1922,9 +1871,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:df8aae41-8c90-44e6-94d4-d89ad49f4fa3",
         "name": "5 Old Gate",
         "comments": "Empty"
@@ -1940,9 +1886,6 @@
         ]
       },
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "urn": "urn:uuid:61125fce-fd21-41e8-9f0c-a26c86dd12f0",
         "name": "7 Hangingroyd Road",
         "comments": "Heavy Crates"
@@ -2004,7 +1947,7 @@
       },
       "properties": {
         "urn": "urn:uuid:588d0136-644d-4128-9c88-d66976e72388",
-        "name": "Bridge Gate",
+        "name": "21 Bridge Gate",
         "comments": "Laundrette"
       }
     },
@@ -2019,7 +1962,7 @@
       },
       "properties": {
         "urn": "urn:uuid:4a02a7c8-5e62-41cd-88f7-87cb2a48ff17",
-        "name": "Bridge Gate",
+        "name": "19 Bridge Gate",
         "comments": "Coffee Cali"
       }
     },
@@ -2049,7 +1992,7 @@
       },
       "properties": {
         "urn": "urn:uuid:1163e4a0-d713-4cb9-9158-e272ab728a2d",
-        "name": "Bridge Gate",
+        "name": "11a Bridge Gate",
         "comments": "Something Sweet"
       }
     },
@@ -2064,7 +2007,7 @@
       },
       "properties": {
         "urn": "urn:uuid:060e1850-5071-42dd-a9d4-35f210d0ae32",
-        "name": "Bridge Gate",
+        "name": "9 Bridge Gate",
         "comments": "Watergate Tearooms"
       }
     },
@@ -2095,7 +2038,7 @@
       "properties": {
         "urn": "urn:uuid:b0f56451-9810-4939-947e-6becbbfda7b7",
         "name": "Bridge Gate",
-        "comments": "Reeds Rains "
+        "comments": "Reeds Rains"
       }
     },
     {
@@ -2124,7 +2067,7 @@
       },
       "properties": {
         "urn": "urn:uuid:277a8dbc-a25f-4d75-8505-233ab2312ae3",
-        "name": "Bridge Gate",
+        "name": "16 Bridge Gate",
         "comments": "RSPCA"
       }
     },
@@ -2139,7 +2082,7 @@
       },
       "properties": {
         "urn": "urn:uuid:6a1222d6-b5f2-4e87-a9c6-cee7367bae52",
-        "name": "Bridge Gate",
+        "name": "16 Bridge Gate",
         "comments": "Dee's Wardrobe"
       }
     },
@@ -2154,7 +2097,7 @@
       },
       "properties": {
         "urn": "urn:uuid:fc16b240-777c-4a31-89fc-507797b09592",
-        "name": "",
+        "name": "12-16 Bridge Gate",
         "comments": "Aya Sophia"
       }
     },
@@ -2200,7 +2143,7 @@
       "properties": {
         "urn": "urn:uuid:57c0a200-0497-48dd-a39c-2e017d5228e6",
         "name": "Bridge Gate",
-        "comments": "Bamboo"
+        "comments": "??? (was Bamboo)"
       }
     },
     {
@@ -2515,7 +2458,7 @@
       "properties": {
         "urn": "urn:uuid:5eaf0c1a-87a3-4373-a617-f97abb3f8d93",
         "name": "Albert Street",
-        "comments": "Independent Living"
+        "comments": "??? (was Independent Living)"
       }
     },
     {
@@ -2530,7 +2473,7 @@
       "properties": {
         "urn": "urn:uuid:46f0965d-3c6e-4f70-931a-8697fcb11e6f",
         "name": "Albert Street",
-        "comments": "Print Bureau"
+        "comments": "??? (was Print Bureau)"
       }
     },
     {
@@ -2560,7 +2503,7 @@
       "properties": {
         "urn": "urn:uuid:7f55ff32-70a6-49cd-aa24-59832ecad1bf",
         "name": "Albert Street",
-        "comments": "Citizen's Advice Bureau"
+        "comments": "??? (was Citizen's Advice Bureau)"
       }
     },
     {
@@ -2589,8 +2532,8 @@
       },
       "properties": {
         "urn": "urn:uuid:bc20bad3-6ab5-42f2-8ef4-231dd5a2287e",
-        "name": "Albert Street",
-        "comments": "Greens Vegetarian Cafe"
+        "name": "Old Oxford House, Albert Street",
+        "comments": "Leila’s Kitchen"
       }
     },
     {
@@ -2619,7 +2562,7 @@
       },
       "properties": {
         "urn": "urn:uuid:02019ec1-fb50-4608-9e60-46b2e8b46a1d",
-        "name": "Albert Street",
+        "name": "6 Albert Street",
         "comments": "Pennine Club"
       }
     },
@@ -2634,7 +2577,7 @@
       },
       "properties": {
         "urn": "urn:uuid:1cd95f9f-9b72-4210-bc13-46a1fea23d00",
-        "name": "Albert Street",
+        "name": "6 Albert Street",
         "comments": "Hebden Bridge Sports and Social Club"
       }
     },
@@ -2665,7 +2608,7 @@
       "properties": {
         "urn": "urn:uuid:50ca7a69-d78c-4e03-9125-10574576d93c",
         "name": "Albert Street",
-        "comments": "Squeeze"
+        "comments": "??? (was Squeeze)"
       }
     },
     {
@@ -2695,7 +2638,7 @@
       "properties": {
         "urn": "urn:uuid:7c4ea3fc-5e10-41cd-b5fc-72ed8422f374",
         "name": "Albert Street",
-        "comments": "Colour Yorkshire"
+        "comments": "Empty (was Colour Yorkshire)"
       }
     },
     {
@@ -2710,7 +2653,7 @@
       "properties": {
         "urn": "urn:uuid:9534b6e0-8920-44ed-90ab-8f9691386b24",
         "name": "Albert Street",
-        "comments": "Lloyds Bank"
+        "comments": "Empty (was Lloyds Bank)"
       }
     },
     {
@@ -2724,8 +2667,8 @@
       },
       "properties": {
         "urn": "urn:uuid:400956ed-104f-4bea-8a63-aa9660bba5b4",
-        "name": "Albert Street",
-        "comments": "Hebden Bridge Antiques Centre"
+        "name": "9-11 Albert Street",
+        "comments": "Cardamom"
       }
     },
     {
@@ -2739,7 +2682,7 @@
       },
       "properties": {
         "urn": "urn:uuid:013811b2-deb0-43b0-a9bd-6113cf1b7716",
-        "name": "Albert Street",
+        "name": "1-3 Albert Street",
         "comments": "The Albert"
       }
     },
@@ -2830,7 +2773,7 @@
       "properties": {
         "urn": "urn:uuid:c5c76efe-75ab-4b68-aac1-4a67de3a7c05",
         "name": "Albert Street",
-        "comments": "Cook & Coffee"
+        "comments": "??? (was Cook & Coffee)"
       }
     },
     {
@@ -2904,7 +2847,7 @@
       },
       "properties": {
         "urn": "urn:uuid:38b12334-cf56-40d1-9ea8-98195c8f5eef",
-        "name": "Albert Street",
+        "name": "24 Albert Street",
         "comments": "Zinnia"
       }
     },
@@ -2949,8 +2892,8 @@
       },
       "properties": {
         "urn": "urn:uuid:0238b645-7531-4673-8f23-fb789b4e9c88",
-        "name": "St. George's Square",
-        "comments": "Sauce"
+        "name": "6 St. George's Square",
+        "comments": "Mijo"
       }
     },
     {
@@ -2995,7 +2938,7 @@
       "properties": {
         "urn": "urn:uuid:989840da-6ab1-4814-be16-25ce758590aa",
         "name": "St. George's Square",
-        "comments": "Waite's Confectioners"
+        "comments": "Marshall Bakers and Confectioners"
       }
     },
     {

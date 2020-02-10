@@ -22,10 +22,11 @@ function makeFeatureCollection(data) {
     };
 }
 
-function writeGeoJson(file) {
+function writeGeoJson(file, { pretty = false } = {}) {
+    const formatter = pretty ? (x) => JSON.stringify(x, null, 2) : (x) => JSON.stringify(x); 
     return (data) => {
         const output = makeFeatureCollection(data);
-        writeFile(file, JSON.stringify(output));
+        writeFile(file, formatter(output));
         return data;
     }
 }
