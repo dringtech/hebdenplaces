@@ -776,9 +776,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:cfe36ecd-6a1c-4a87-8af7-dfa4677dce4b",
-        "name": "Albert Street",
-        "comments": "Welcome Independent Living"
+        "name": "Unit 3 Croft Mill",
+        "comments": "Classic Carpet Company"
       }
     },
     {
@@ -926,8 +929,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:ef01cffc-a16b-423e-afa6-e4f5f337ef56",
-        "name": "Crown Street",
+        "name": "4 Carlton Street",
         "comments": "Oasis Wine & Specialist Food Merchant"
       }
     },
@@ -1586,9 +1592,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:dcb2a0d1-d201-40d8-b660-fd66f650fd25",
         "name": "Unit 3, The Picture House Cinema New Road",
-        "comments": "Milk Bar"
+        "comments": "The Nightjar"
       }
     },
     {
@@ -1676,8 +1685,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:e0cfc850-761d-4e70-9376-38fcfbfc9a79",
-        "name": "Crown Street",
+        "name": "1-3 Crown Street",
         "comments": "Overgate Hospice shop"
       }
     },
@@ -1686,13 +1698,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0116816,
-          53.741718
+          -2.011691629886627,
+          53.7417156691381
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:64709de0-70bd-42e6-a12b-02d440a88fb5",
-        "name": "14 Albert Street",
+        "name": "Albert Street",
         "comments": "Jack's Barbers"
       }
     },
@@ -1781,9 +1796,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:479d65fe-2258-475d-b69d-a06255fba929",
         "name": "Crown Street",
-        "comments": "Oasis News"
+        "comments": "The Remedy"
       }
     },
     {
@@ -1896,14 +1914,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.011546,
-          53.7406135
+          -2.011471688747406,
+          53.74060046519032
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:6be90871-a0f1-4295-9ba1-1b725158866d",
-        "name": "8 New Road",
-        "comments": "Former (Moyles) hotel"
+        "name": "6 New Road",
+        "comments": "Vocation and Co"
       }
     },
     {
@@ -2276,8 +2297,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:23d92330-a475-40e2-b263-96b8c6a1e9de",
-        "name": "Crown Street",
+        "name": "14 Crown Street",
         "comments": "Stephen Maskill butcher"
       }
     },
@@ -2291,8 +2315,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:15bacb78-8b43-40aa-8c2e-ff829f468f7f",
-        "name": "Crown Street",
+        "name": "12 Crown Street",
         "comments": "One Stop Shop"
       }
     },
@@ -2306,8 +2333,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:bd94c2f3-b693-4ff6-80b5-aa0910e04dc7",
-        "name": "Crown Street",
+        "name": "10 Crown Street",
         "comments": "Crown Inn"
       }
     },
@@ -2321,9 +2351,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:f4136838-0665-4a6e-8831-cef63299b8af",
-        "name": "Crown Street",
-        "comments": "The Crown Fish and Chips"
+        "name": "8 Crown Street",
+        "comments": "Crown Fisheries"
       }
     },
     {
@@ -2336,24 +2369,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:96455b22-01ef-4c60-9463-0e9c015e7be3",
-        "name": "Crown Street",
-        "comments": "Claire Sheehan"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0161843299865723,
-          53.738419148590886
-        ]
-      },
-      "properties": {
-        "urn": "urn:uuid:080d18f9-7e67-4967-bec6-a9a6d45dacc6",
-        "name": "Crown Street",
-        "comments": "Hospice Shop"
+        "name": "6 Crown Street",
+        "comments": "Rick's Mexican"
       }
     },
     {
@@ -2366,8 +2387,11 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:56960f26-b3aa-47e1-9ecc-098b2062c05a",
-        "name": "Crown Street",
+        "name": "5 Crown Street",
         "comments": "Hiu Man"
       }
     },
@@ -2381,9 +2405,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:35912452-e070-46f5-a9c3-e4e2dcdb84f2",
         "name": "Crown Street",
-        "comments": "Daisy and Sam"
+        "comments": "Closed for refurb (was Daisy and Sam)"
       }
     },
     {
@@ -2451,21 +2478,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0195960998535156,
-          53.73749264968572
-        ]
-      },
-      "properties": {
-        "urn": "urn:uuid:5eaf0c1a-87a3-4373-a617-f97abb3f8d93",
-        "name": "Albert Street",
-        "comments": "??? (was Independent Living)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.0111137,
           53.7407079
         ]
@@ -2481,8 +2493,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.018866539001465,
-          53.73749264968572
+          -2.011211514472961,
+          53.7408019338121
         ]
       },
       "properties": {
@@ -2496,29 +2508,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0182013511657715,
-          53.73749264968572
+          -2.01124906539917,
+          53.74084952468409
         ]
       },
       "properties": {
         "urn": "urn:uuid:7f55ff32-70a6-49cd-aa24-59832ecad1bf",
         "name": "Albert Street",
         "comments": "??? (was Citizen's Advice Bureau)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.017514705657959,
-          53.73749264968572
-        ]
-      },
-      "properties": {
-        "urn": "urn:uuid:626384fb-aaa8-4ad7-b8b5-1b87c635790b",
-        "name": "Albert Street",
-        "comments": "Quilt Cabin"
       }
     },
     {
@@ -2541,8 +2538,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0168280601501465,
-          53.73749264968572
+          -2.0099830627441406,
+          53.74188381965516
         ]
       },
       "properties": {
@@ -2586,8 +2583,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.016162872314453,
-          53.73749264968572
+          -2.0099830627441406,
+          53.7423152971488
         ]
       },
       "properties": {
@@ -2621,9 +2618,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:6f80d09b-511c-4553-8019-078c63358df2",
         "name": "Albert Street",
-        "comments": "Polkadot Lane"
+        "comments": "??? (was Polkadot Lane)"
       }
     },
     {
@@ -2816,9 +2816,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:c43c2c83-00fb-4062-9e64-a45c6b8fef22",
         "name": "2 Crown Street",
-        "comments": "Former bank"
+        "comments": "Empty (was Nat West Bank)"
       }
     },
     {
@@ -2921,9 +2924,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:eac399aa-9656-4234-bf8b-763daddb3eb1",
-        "name": "Albert Street",
-        "comments": "Opticians"
+        "name": "14 Albert Street",
+        "comments": "Jack's Barbers"
       }
     },
     {
@@ -2966,6 +2972,9 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "urn": "urn:uuid:957534fd-51f9-4ec9-b6fc-b7090d62a30c",
         "name": "Albert Street",
         "comments": "Bradbury Bathrooms"
@@ -2976,8 +2985,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0112799,
-          53.7408713
+          -2.011275887489319,
+          53.7408907700629
         ]
       },
       "properties": {
@@ -3239,6 +3248,42 @@
         "urn": "urn:uuid:5242af23-1a00-4fa7-9c08-42d9c9ade796",
         "name": "Valley Road",
         "comments": "James Shepherd"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "8 New Road",
+        "comments": "Nathan's",
+        "urn": "urn:uuid:1df23860-68d3-4a53-8f10-a9d1db632a9b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0115843415260315,
+          53.74062426074713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "urn": "urn:uuid:5994845e-690e-4648-b4cd-e1678263863e",
+        "name": "6 Cheetham Street",
+        "comments": "Blue Sky Baker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0127645134925842,
+          53.741271494725005
+        ]
       }
     }
   ]
