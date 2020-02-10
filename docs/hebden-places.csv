@@ -1,49 +1,49 @@
 urn,name,comments,lat,lon
-urn:uuid:596dfef1-029d-4c3f-a086-bb6d165af7c2,1-5 Old Gate,Old Gate Bar and Restaurant,-2.0149822,53.7414608
-urn:uuid:b7cf19c9-106b-403d-bb42-a76f524bd448,2 Market Street,Organic House,-2.0151216,53.7414481
-urn:uuid:e7aab954-4eba-4c8e-b909-152c6661266a,4 Market Street,Heart Gallery,-2.0153148,53.741464
+urn:uuid:596dfef1-029d-4c3f-a086-bb6d165af7c2,1-5 Old Gate,Old Gate Bar and Restaurant,-2.0150041580200195,53.74148882350657
+urn:uuid:b7cf19c9-106b-403d-bb42-a76f524bd448,2 Market Street,Origano,-2.015170454978943,53.74144757871471
+urn:uuid:e7aab954-4eba-4c8e-b909-152c6661266a,4 Market Street,Heart Gallery,-2.015363574028015,53.74146185576263
 urn:uuid:0093d7c3-7841-4509-b394-2374e410c032,6 Market Street,The Yorkshire Soap Company,-2.0156849,53.7414132
-urn:uuid:d72d3fdf-33cd-4faf-84f1-0e4a9c1a961a,10 Market Street,Barclays Bank,-2.0158271,53.7414021
+urn:uuid:d72d3fdf-33cd-4faf-84f1-0e4a9c1a961a,10 Market Street,Empty,-2.0158271,53.7414021
 urn:uuid:8ed49cbb-815e-4abc-8893-50a71bfa0244,Barclays Bank Chambers Market Street,Cresswells,-2.0159156,53.7413989
-urn:uuid:d22bc577-5359-492a-9c4f-6ec27da045bc,14 Market Street,The Deli,-2.0159719,53.7413958
-urn:uuid:64f62f49-075d-4c42-922c-4b9d8ab886ac,16 Market Street,Molly and Ginger,-2.0160416,53.7413958
-urn:uuid:2d3a6548-d3f6-49c4-b3ea-d1b58eb0fa60,18 Market Street,Ribbon Circus,-2.0161167,53.741391
-urn:uuid:4d65614c-5736-4f3c-8573-7fc67596d89e,20 Market Street,Calder Gallery,-2.0161918,53.7413894
+urn:uuid:d22bc577-5359-492a-9c4f-6ec27da045bc,14 Market Street,Totally Awesome,-2.0159719,53.7413958
+urn:uuid:64f62f49-075d-4c42-922c-4b9d8ab886ac,16 Market Street,Valley Organics,-2.0160416,53.7413958
+urn:uuid:2d3a6548-d3f6-49c4-b3ea-d1b58eb0fa60,18 Market Street,Empty (was Ribbon Circus),-2.0161167,53.741391
+urn:uuid:4d65614c-5736-4f3c-8573-7fc67596d89e,20 Market Street,??? (was Calder Gallery),-2.0161918,53.7413894
 urn:uuid:c8fe977c-b387-4052-a5f6-38d44fa5d0c8,22 Market Street,Papas,-2.016275,53.7413831
-urn:uuid:261a7fc4-292e-4756-994c-3233f3966e4f,30 Market Street,Saker Organic Bread,-2.0166505,53.7413561
-urn:uuid:b0def3fe-4095-4920-85f8-597706448d67,28 Market Street,Ryburne Brokers and Co,-2.0165834,53.7413609
+urn:uuid:261a7fc4-292e-4756-994c-3233f3966e4f,30 Market Street,Saker Organic Bread,-2.016618847846985,53.74136826169355
+urn:uuid:b0def3fe-4095-4920-85f8-597706448d67,28 Market Street,Ryburne Brokers and Co,-2.016538381576538,53.7413666753516
 urn:uuid:7b0df051-5fec-43f0-8f51-1057775ab82b,24 Market Street,Mooch,-2.0163689,53.7413735
-urn:uuid:7060b082-8275-4247-8542-8cb2ba617231,26 Market Street,Radiance,-2.0164453,53.741372
-urn:uuid:25e519b4-274d-42d8-b040-988e85a8bf37,38 Market Street,Muse Music & Love Cafe,-2.0169214,53.741345
-urn:uuid:e443e002-3ff0-43e6-84b6-8c0ab9856062,40 Market Street,2 Tone Comics,-2.016971,53.7413434
+urn:uuid:7060b082-8275-4247-8542-8cb2ba617231,26 Market Street,??? (was Radiance),-2.0164453,53.741372
+urn:uuid:25e519b4-274d-42d8-b040-988e85a8bf37,38 Market Street,Muse Music & Love Cafe,-2.016916573047638,53.74134446655802
+urn:uuid:e443e002-3ff0-43e6-84b6-8c0ab9856062,40 Market Street,2 Tone Comics,-2.016991674900055,53.74134288021516
 urn:uuid:fd8f4a02-18c5-494a-be2e-b289eae72265,42-44 Market Street,Mattocks,-2.0170649,53.7413371
 urn:uuid:cfa4291a-cf73-4153-a738-856bd8550317,48-50 Market Street,Banyan Tree,-2.0178763,53.741303
 urn:uuid:4d56596c-e937-404b-8fc5-c3c5428a9a51,52 Market Street,Kitties Restuarant,-2.0179983,53.7412998
 urn:uuid:782eb374-128e-4f7c-aa8e-f9cd77d4c2d1,56 Market Street,Hat Therapy,-2.0181887,53.741295
-urn:uuid:100e96da-dfe4-42f5-8b3d-422cb9abe698,58 Market Street,Snug Gallery,-2.0182799,53.7412934
+urn:uuid:100e96da-dfe4-42f5-8b3d-422cb9abe698,58 Market Street,Empty shop unit,-2.0182799,53.7412934
 urn:uuid:1d09716e-72ba-4fb1-acf4-77d9b21ce900,41 Market Street,Co-operative Food,-2.0169978,53.7412474
 urn:uuid:4540ce63-d4ad-4b71-a8ed-f431bbcd4174,Salem Street,Salem Mill,-2.016672,53.7410499
-urn:uuid:46336acc-df34-4301-84e2-7e180aeae1ca,39A Market Street,Not a Full Shilling,-2.0165727,53.7412736
-urn:uuid:a4aebea3-f376-4387-ace1-53fcd9637034,37 Market Street,Ruby Shoesday,-2.0164936,53.7412768
-urn:uuid:eb7fe90e-0368-4fbb-ac10-48ca28c13461,35 Market Street,Dynamite,-2.0164359,53.7412784
-urn:uuid:83cd4858-5c8d-4ccb-9586-a15ff99691bd,33 Market Street,JK's Chinese Takeaway,-2.0163702,53.7412823
-urn:uuid:8e496f4a-ee02-4aee-ab2c-7c14131e66d2,31 Market Street,Valley Organics,-2.0163085,53.7412855
-urn:uuid:abe9e956-66f7-4014-a243-571e555452a1,29 Market Street,The Book Case,-2.0161851,53.7412903
-urn:uuid:376d79bb-0ef4-4f1e-b14c-702caf9c3274,27 Market Street,Hair Care,-2.0161208,53.7412887
-urn:uuid:ba8157c6-72dc-44b5-b655-368a1b9d0c21,23 Market Street,Earth Spirit,-2.0157452,53.7413045
-urn:uuid:3482a7a1-a871-459b-81a2-23bc7ac9b79e,21 Market Street,Oxfam,-2.0156514,53.7413156
-urn:uuid:d782fff8-5bdd-4730-a265-4ca825da5de1,25 Market Street,Element,-2.015984,53.7412966
-urn:uuid:e260e344-12d5-4a11-b2fb-6eb0d23d3eea,19 Market Street,Eastern Spice,-2.0155629,53.7413204
-urn:uuid:add7b333-e781-416a-8328-ce1ab115b049,15 Market Street,Drink?,-2.015477,53.7413283
-urn:uuid:7613a795-5e5e-417e-a27e-a1c39bd54fe9,11-13 Market Street,Spirals,-2.0152839,53.7413331
-urn:uuid:6919d166-dc82-4e9b-b392-ca6d92fb67e8,9 Market Street,Hebden Computers,-2.0151686,53.7413442
-urn:uuid:47207e50-2e06-4f08-8709-75338e730144,7 Market Street,The Afghan Rug Shop,-2.0151096,53.7413394
-urn:uuid:4a864732-94b5-4495-9fbc-e46f9303a0ac,5 Market Street,Café Solo,-2.0150425,53.7413394
-urn:uuid:3354e12b-8363-4c2e-ba6d-94be11ef6761,1-5 Market Street,The Old Treehouse,-2.0149325,53.7413252
-urn:uuid:89f68f36-1d8b-490f-bb32-6fe358f6e9e3,36 Market Street,Monster Computers,-2.0167511,53.7413521
+urn:uuid:46336acc-df34-4301-84e2-7e180aeae1ca,39A Market Street,??? (was Not a Full Shilling),-2.0166322588920593,53.741260390304554
+urn:uuid:a4aebea3-f376-4387-ace1-53fcd9637034,37 Market Street,Ruby Shoesday,-2.0165491104125977,53.741263562996394
+urn:uuid:eb7fe90e-0368-4fbb-ac10-48ca28c13461,35 Market Street,Humblest of Pleasures,-2.016465961933136,53.741269908379415
+urn:uuid:83cd4858-5c8d-4ccb-9586-a15ff99691bd,33 Market Street,JK's Chinese Takeaway,-2.0163828134536743,53.74127784010683
+urn:uuid:8e496f4a-ee02-4aee-ab2c-7c14131e66d2,31 Market Street,Valley Organics Unwrapped,-2.016294300556183,53.74127942645214
+urn:uuid:abe9e956-66f7-4014-a243-571e555452a1,29 Market Street,The Book Case,-2.0162004232406616,53.741284185487686
+urn:uuid:376d79bb-0ef4-4f1e-b14c-702caf9c3274,27 Market Street,Hair Care,-2.016093134880066,53.74128735817775
+urn:uuid:ba8157c6-72dc-44b5-b655-368a1b9d0c21,23 Market Street,Earth Spirit,-2.015768587589264,53.741298462591104
+urn:uuid:3482a7a1-a871-459b-81a2-23bc7ac9b79e,21 Market Street,Oxfam,-2.015666663646698,53.74130322162449
+urn:uuid:d782fff8-5bdd-4730-a265-4ca825da5de1,25 Market Street,Element,-2.0159831643104553,53.74128735817775
+urn:uuid:e260e344-12d5-4a11-b2fb-6eb0d23d3eea,19 Market Street,Eastern Spice,-2.015564739704132,53.74131115334562
+urn:uuid:add7b333-e781-416a-8328-ce1ab115b049,15 Market Street,Drink?,-2.01536625623703,53.741322257752685
+urn:uuid:7613a795-5e5e-417e-a27e-a1c39bd54fe9,11-13 Market Street,Spirals,-2.015269696712494,53.74133336215683
+urn:uuid:6919d166-dc82-4e9b-b392-ca6d92fb67e8,9 Market Street,Wood & Wire,-2.0151758193969727,53.741331775813556
+urn:uuid:47207e50-2e06-4f08-8709-75338e730144,7 Market Street,The Afghan Rug Shop,-2.0150846242904663,53.741331775813556
+urn:uuid:4a864732-94b5-4495-9fbc-e46f9303a0ac,5 Market Street,Café Solo,-2.0149827003479,53.741317498721465
+urn:uuid:3354e12b-8363-4c2e-ba6d-94be11ef6761,1-3 Market Street,Tibetan Kitchen,-2.0148780941963196,53.74129053086758
+urn:uuid:89f68f36-1d8b-490f-bb32-6fe358f6e9e3,36 Market Street,Monster Computers,-2.0168334245681763,53.74134922558619
 urn:uuid:b678e63f-dbdd-4e3d-9370-c25be11ea60d,4 Hilton Street,Hotcakes,-2.0159142,53.7411983
 urn:uuid:ef41018d-b69b-4554-820a-0c6fe8fd6b1f,Market Place,Hebden Bridge Market,-2.0128493,53.7427964
-urn:uuid:79caf13f-dfe5-4f48-9104-39ca84f0cf21,46 Market Street,Empty shop unit,0,0
+urn:uuid:79caf13f-dfe5-4f48-9104-39ca84f0cf21,46 Market Street,Welcome Independent Living Upper Valley Community Hub,-2.0175951719284058,53.74131908506525
 urn:uuid:5e4ee95e-c99f-499a-a2f8-b7d8164bc272,The Old Loading Bay Hebden Bridge Railway Station,Coffee Station / Parcel Bar,-2.0088153,53.7377802
 urn:uuid:e9df781d-2a95-424a-b4e0-99d80ddd1914,3 Bridge Gate,Ladbrokes,-2.0139345,53.7412465
 urn:uuid:f01dfc72-b449-4c93-90ae-e5c23f87cee9,Central Street,Central Street Infant and Nursery School ,-2.0158073,53.7410113
@@ -51,8 +51,8 @@ urn:uuid:820ebedc-dcd6-47e7-88b9-defaae1a87a8,Church Lane,Hebden Royd CE Primary
 urn:uuid:2c588b87-1e0c-4dd4-9e5f-a1e847f0f5d5,St. George's Square,Feathergill's Emporium,-2.0122593,53.7420265
 urn:uuid:cc278344-8211-4f7c-884c-d46c53a55109,Cheetham Street,Empty shop unit,-2.0118935,53.7414285
 urn:uuid:cfe36ecd-6a1c-4a87-8af7-dfa4677dce4b,Albert Street,Welcome Independent Living,-2.011052,53.7405667
-urn:uuid:22e763c3-6533-45b7-9b9f-fa5b0966091c,9 Old Gate,Cornucopia,-2.0146634,53.7415602
-urn:uuid:d77c984e-f4ac-4f2c-9b66-6fbd27b67042,32 Market Street,Empty shop unit,0,0
+urn:uuid:22e763c3-6533-45b7-9b9f-fa5b0966091c,9 Old Gate,Empty,-2.0146634,53.7415602
+urn:uuid:d77c984e-f4ac-4f2c-9b66-6fbd27b67042,32 Market Street,Empty shop unit,-2.016699314117431,53.74136032998321
 urn:uuid:7df426e5-dc26-4e31-bb5e-7f68be592559,Station House Station Road,Hebden Bridge Railway Station,-2.0086486,53.7377124
 urn:uuid:f8091f9e-21f6-4ee9-a9bb-bf9f1052ea9c,Calder Homles Park,Park Life Cafe,-2.0124041,53.739519
 urn:uuid:6da84d28-2547-4000-a4f1-64a5592a5686,1 Bridge Gate,Valli Opticians,-2.0140939,53.7412291
@@ -66,8 +66,8 @@ urn:uuid:930e7b58-0521-414b-9814-5038479464fa,St. George's Square,L.t.d.,-2.0126
 urn:uuid:e7172271-038c-49b7-9f23-ba386024f12f,St. George's Square,David Woodhead Family Butchers,-2.0123706,53.7419551
 urn:uuid:3025d2c8-ef40-4231-8e84-0530118d8c78,9 Albert Street,Vintage shop,-2.0116099,53.7413123
 urn:uuid:d024aff6-5277-4dfa-a773-d6e7a9e66b36,Bridge Gate,The Workshop,-2.0120283,53.7422598
-urn:uuid:d5f9973f-5951-4e40-9583-d305cb90d2da,17 Market Street,Copa House,-2.0153939,53.7413315
-urn:uuid:8b9fbded-768b-4be7-8c72-71270df033f1,30 Market Street,Empty shop unit,0,0
+urn:uuid:d5f9973f-5951-4e40-9583-d305cb90d2da,17 Market Street,Chapter 17,-2.0154654979705806,53.74131908506525
+urn:uuid:8b9fbded-768b-4be7-8c72-71270df033f1,34 Market Street,Empty shop unit,-2.016766369342804,53.741357157298644
 urn:uuid:cbeec4c8-f345-4192-9aca-2acb33aa43cb,Hebble End,Bicycle Den,-2.0168834,53.7403725
 urn:uuid:a7dab670-6ad9-4be3-9882-974ee9b40036,St. George's Square,S K News,-2.0123096,53.7421185
 urn:uuid:36dbdb1b-e067-407a-bc6a-14964b1f1c84,St. George's Square,Valentine's,-2.0122821,53.7420772
@@ -123,8 +123,8 @@ urn:uuid:fcbbe460-f731-48fa-9e7a-715874f7642c,,Love Grows,-2.0119267,53.7422573
 urn:uuid:835d37ab-dd3e-475d-904b-0c9bc6a941ff,Garden Street,Jules Pottery & China,-2.0116045,53.7417474
 urn:uuid:c09add00-a173-4e35-a904-ab4f3c0f5625,Hope Street,N G Jewellers,-2.0118935,53.7414285
 urn:uuid:dd287497-2ad1-4a7f-ab33-1f733f900ab7,Hollins Place,Brocante Country Homeware,-2.0119317,53.7421456
-urn:uuid:df8aae41-8c90-44e6-94d4-d89ad49f4fa3,5 Old Gate,Kiddies Corner,-2.0144582,53.7415832
-urn:uuid:61125fce-fd21-41e8-9f0c-a26c86dd12f0,7 Hangingroyd Road,Beads,-2.0173631,53.7413817
+urn:uuid:df8aae41-8c90-44e6-94d4-d89ad49f4fa3,5 Old Gate,Empty,-2.0144582,53.7415832
+urn:uuid:61125fce-fd21-41e8-9f0c-a26c86dd12f0,7 Hangingroyd Road,Heavy Crates,-2.0173631,53.7413817
 urn:uuid:6be90871-a0f1-4295-9ba1-1b725158866d,8 New Road,Former (Moyles) hotel,-2.011546,53.7406135
 urn:uuid:e84c3d1a-3474-41f6-a8aa-25e8387115f6,Station House Station Road,Hebden Bridge Private Day Nursery,-2.0085359,53.7376743
 urn:uuid:48c74ce6-aa8f-4d0f-8b54-6c2e7444ff91,Bridge Gate,Shoulder of Mutton,-2.0126214,53.7422208
@@ -155,23 +155,23 @@ urn:uuid:15bacb78-8b43-40aa-8c2e-ff829f468f7f,Crown Street,One Stop Shop,-2.0126
 urn:uuid:bd94c2f3-b693-4ff6-80b5-aa0910e04dc7,Crown Street,Crown Inn,-2.0127454,53.7413947
 urn:uuid:f4136838-0665-4a6e-8831-cef63299b8af,Crown Street,The Crown Fish and Chips,-2.012909,53.7412472
 urn:uuid:96455b22-01ef-4c60-9463-0e9c015e7be3,Crown Street,Claire Sheehan,-2.0129788,53.7411544
-urn:uuid:080d18f9-7e67-4967-bec6-a9a6d45dacc6,Crown Street,Hospice Shop,0,0
+urn:uuid:080d18f9-7e67-4967-bec6-a9a6d45dacc6,Crown Street,Hospice Shop,-2.0161843299865723,53.738419148590886
 urn:uuid:56960f26-b3aa-47e1-9ecc-098b2062c05a,Crown Street,Hiu Man,-2.0130793,53.7412881
 urn:uuid:35912452-e070-46f5-a9c3-e4e2dcdb84f2,Crown Street,Daisy and Sam,-2.0130297,53.7413313
 urn:uuid:49664f74-6dda-4ee0-a8c8-21e5ef53d1fb,Crown Street,Boots,-2.0128598,53.7414615
 urn:uuid:32c9549d-2285-444b-8c3b-5aaf25cd5cd9,Crown Street,Christine Edwards,-2.0129566,53.74139
 urn:uuid:f40ad140-e4e2-42d9-901c-7f0a3b47c8cc,Crown Street,Amelia,-2.0125925,53.7416569
 urn:uuid:6fbb9bff-399e-4fcf-a17e-522a28dcf3f9,Crown Street,Mountain Wild,-2.0126428,53.7415982
-urn:uuid:5eaf0c1a-87a3-4373-a617-f97abb3f8d93,Albert Street,Independent Living,0,0
+urn:uuid:5eaf0c1a-87a3-4373-a617-f97abb3f8d93,Albert Street,Independent Living,-2.0195960998535156,53.73749264968572
 urn:uuid:46f0965d-3c6e-4f70-931a-8697fcb11e6f,Albert Street,Print Bureau,-2.0111137,53.7407079
-urn:uuid:a40108d9-50a8-4c61-b7cc-9d33174f51fa,Albert Street,Greenwood Funerals,0,0
-urn:uuid:7f55ff32-70a6-49cd-aa24-59832ecad1bf,Albert Street,Citizen's Advice Bureau,0,0
-urn:uuid:626384fb-aaa8-4ad7-b8b5-1b87c635790b,Albert Street,Quilt Cabin,0,0
+urn:uuid:a40108d9-50a8-4c61-b7cc-9d33174f51fa,Albert Street,Greenwood Funerals,-2.018866539001465,53.73749264968572
+urn:uuid:7f55ff32-70a6-49cd-aa24-59832ecad1bf,Albert Street,Citizen's Advice Bureau,-2.0182013511657715,53.73749264968572
+urn:uuid:626384fb-aaa8-4ad7-b8b5-1b87c635790b,Albert Street,Quilt Cabin,-2.017514705657959,53.73749264968572
 urn:uuid:bc20bad3-6ab5-42f2-8ef4-231dd5a2287e,Albert Street,Greens Vegetarian Cafe,-2.0113497,53.7410038
-urn:uuid:7369c85a-7ef2-4774-83f4-d7d5753a1205,Albert Street,Gibsons,0,0
+urn:uuid:7369c85a-7ef2-4774-83f4-d7d5753a1205,Albert Street,Gibsons,-2.0168280601501465,53.73749264968572
 urn:uuid:02019ec1-fb50-4608-9e60-46b2e8b46a1d,Albert Street,Pennine Club,-2.0114945,53.7411715
 urn:uuid:1cd95f9f-9b72-4210-bc13-46a1fea23d00,Albert Street,Hebden Bridge Sports and Social Club,-2.0115509,53.7412366
-urn:uuid:7b680f49-f922-40a8-8baf-6e4104234e2e,Albert Street,Edwards,0,0
+urn:uuid:7b680f49-f922-40a8-8baf-6e4104234e2e,Albert Street,Edwards,-2.016162872314453,53.73749264968572
 urn:uuid:50ca7a69-d78c-4e03-9125-10574576d93c,Albert Street,Squeeze,-2.0116246,53.741331
 urn:uuid:6f80d09b-511c-4553-8019-078c63358df2,Albert Street,Polkadot Lane,-2.0116427,53.7413568
 urn:uuid:7c4ea3fc-5e10-41cd-b5fc-72ed8422f374,Albert Street,Colour Yorkshire,-2.0116883,53.7414821
@@ -182,9 +182,8 @@ urn:uuid:19278e1c-a67a-47b5-a479-fa6ab97d0ab6,Hope Street,Circle of Friends,-2.0
 urn:uuid:4f4b2084-9be8-4584-905b-913e2953b6b6,Hope Street,Library,-2.0119642,53.7412817
 urn:uuid:5b55f24b-d170-4e59-b0e4-4a6766b3958f,Carlton Street,Marshalls Bar,-2.0123183,53.7415546
 urn:uuid:a0c2d456-390e-4935-a388-9411015b5316,Carlton Street,Zeitgeist,-2.011984,53.7414591
-urn:uuid:bdd3ef4d-d49c-4ebf-a2b2-3c6d36eca1b8,Hebble End,Hebble End studios,0,0
+urn:uuid:bdd3ef4d-d49c-4ebf-a2b2-3c6d36eca1b8,Hebble End,Hebble End studios,-2.0170319080352783,53.74056715138816
 urn:uuid:c5c76efe-75ab-4b68-aac1-4a67de3a7c05,Albert Street,Cook & Coffee,-2.0119384,53.7415455
-urn:uuid:698d554a-972f-46fb-87c5-07d3eab4c091,St. Georges Square,The Country Stores,0,0
 urn:uuid:92fad9d5-ff26-417c-b660-75cb4745b314,King Street,The Stubbing Wharf,-2.0276305,53.7408868
 urn:uuid:dab27681-a29b-4f5d-98bb-12e7760464c0,24 (upstairs) New Road,Eden Beauty Room,-2.0135221,53.7411108
 urn:uuid:c43c2c83-00fb-4062-9e64-a45c6b8fef22,2 Crown Street,Former bank,-2.0132264,53.7409887
